@@ -28,7 +28,7 @@ class MoviesController extends Controller {
                                 ->get( 'https://api.themoviedb.org/3/movie/now_playing' )
                                 ->json()['results'];
 
-        dump( $popularMovies );
+
 
         return view( 'index', [
             'popularMovies'    => $popularMovies,
