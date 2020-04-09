@@ -7,7 +7,9 @@ Laravel Complete project. <br>
 Build movies app with Laravel Framework.<br>
 Use external Api https://www.themoviedb.org/
 
-![Corona wordpress theme](./public/img/github-movies-app.png)
+![Movies App Show Page](./public/img/github-show-page.png)
+![Movies App Home page](./public/img/github-movies-app.png)
+
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
